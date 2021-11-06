@@ -1,0 +1,16 @@
+body {
+  background-color: #6259ac;
+}
+
+.footer {
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+  font-weight: 2;
+}
+
+.header {
+  font-family: "Playfair Display", serif;
+}
+.text {
+  font-family: "Open Sans", sans-serif;
+}
